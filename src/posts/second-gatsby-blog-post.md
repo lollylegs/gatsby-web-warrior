@@ -1,6 +1,7 @@
 ---
 title: "Second Gatsby Blog Post"
 date: "2022-1-19"
+featured: "../images/second-post.png"
 ---
 Mollit do proident elit aliquip sit est officia.
 
